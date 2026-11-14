@@ -46,7 +46,6 @@ app_include_js = [
     f"/assets/changai/dist/changai-chatbot.js{ASSET_VERSION}",
     "/assets/changai/js/ai_translate.js",
     "/assets/changai/js/tooltip.js",
-    "/assets/changai/js/erpgulf_credits.js",
 ]
 app_include_css = [
     f"/assets/changai/dist/changai-chatbot.css{ASSET_VERSION}",
